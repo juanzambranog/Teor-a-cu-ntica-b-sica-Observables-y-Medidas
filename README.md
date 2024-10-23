@@ -101,9 +101,9 @@ Se realiza la misma verificación para el producto mult2.
   ## Instalaciòn y ejecucion del proyecto
      Descargue el repositorio lo puede realizar de tres formas:
     * Clonando el codigo con uno de los siguientes enlaces: 
-    * HTTPS: https://github.com/juanzambranog/Complejos.git
-    * SSH: git@github.com:juanzambranog/Complejos.git
-    * GitHub CLI: gh repo clone juanzambranog/Complejos
+    * HTTPS: [https://github.com/juanzambranog/Complejos.git](https://github.com/juanzambranog/Teor-a-cu-ntica-b-sica-Observables-y-Medidas.git)
+    * SSH: git@github.com:juanzambranog/Teor-a-cu-ntica-b-sica-Observables-y-Medidas.git
+    * GitHub CLI: gh repo clone juanzambranog/Teor-a-cu-ntica-b-sica-Observables-y-Medidas
     * Descargando el repositorio en formato .zip
     * Abrir el repositorio con GitHub Desktop
     
